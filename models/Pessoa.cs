@@ -1,5 +1,7 @@
-namespace CeltaBlue.models
+namespace CeltaBlue.Models
 {
+
+    // Teste
     public class Pessoa
     {
         public long Id { get; set; }

@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
-namespace CeltaBlue.models
+namespace CeltaBlue.Models
 {
     public class CeltaBlueContext : DbContext
     {

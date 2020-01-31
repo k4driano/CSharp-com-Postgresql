@@ -1,4 +1,4 @@
-namespace CeltaBlue.models
+namespace CeltaBlue.Models
 {
     public class Cliente
     {

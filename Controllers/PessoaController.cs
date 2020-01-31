@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using CeltaBlue.models;
+using CeltaBlue.Models;
 
 namespace CeltaBlue.Controllers
 {
